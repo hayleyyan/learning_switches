@@ -1,5 +1,7 @@
 
 Project 1: Learning Switch
+
+
 Due: Thursday 10/19 by 5pm.
 
 For your questions: seanm at cs dot wisc dot edu 
